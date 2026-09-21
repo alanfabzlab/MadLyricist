@@ -1,6 +1,6 @@
 # Mad Lyricist 🎶
 
-A text-based interactive C# songwriting generator built as a Checkpoint Project.
+A text-based interactive C# songwriting generator.
 
 ## 📌 Features
 - Captures multiple grammatical inputs (nouns, verbs, adjectives, places, time of day).
